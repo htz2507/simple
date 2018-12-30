@@ -1,4 +1,3 @@
 # simple
 learning form github
-经济贸易学院 物流工程专业
-
+华南理工大学 物流工程专业
